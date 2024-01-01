@@ -173,3 +173,46 @@ a {
     transform: rotateY(15deg);
   }
 }*/
+#copyright a {
+
+    color: #FFD700;
+
+}
+
+
+
+#copyright a:hover {
+
+    color: #c7b03191;
+
+}
+
+.Subscribe{
+
+  margin-top: 430px;
+
+  margin-left: 20%;
+
+}
+
+.Subscribe a:hover {
+
+
+
+    color: #ef00ef;
+
+
+
+}
+
+.Subscribe .github-logo1{
+
+  color: rgb(255, 255, 255);
+
+}
+
+.Subscribe a:after:visited{
+
+  color: #ef00ef;
+
+}
